@@ -1,0 +1,25 @@
+label,
+input {
+  display: block;
+}
+
+label {
+  margin-top: 20px;
+}
+
+button {
+  margin: 20px 0px;
+  display: block;
+}
+
+.introducao {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 600px;
+  margin: auto;
+}
+
+.contact {
+  margin: auto;
+  width: 600px;
+}
