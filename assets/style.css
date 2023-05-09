@@ -15,11 +15,9 @@ button {
 .introducao {
   display: grid;
   grid-template-columns: 1fr;
-  width: 600px;
   margin: auto;
 }
 
 .contact {
   margin: auto;
-  width: 600px;
 }
